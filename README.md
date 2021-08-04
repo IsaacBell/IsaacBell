@@ -1,6 +1,6 @@
 ### 👋 Did you know that you can set a README on your Github profile?
 
-Documentation on how to do this is [https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme](here).
+Documentation on how to do this is [here](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
 
 Let's test it out with some filler:
 
