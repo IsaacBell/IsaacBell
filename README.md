@@ -12,7 +12,7 @@ I'm currently enjoying competitive programming in my spare time, and participati
 
 - 🌱 I’m currently learning ...
   
-  Advanced number theory and dynamic programming concepts
+  How to apply advanced data structures such as Heavy-Light Decomposition.
 
 - 📫 How to reach me: ...
 
