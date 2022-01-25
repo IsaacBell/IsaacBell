@@ -1,10 +1,6 @@
-### 👋 Welcome. 欢迎大家。여러분 안녕하세요.
+I'm Isaac. I write code with Javascript, C++, Ruby, and sometimes Python.
 
-I'm Isaac. I work full-stack with Javascript, C++, Ruby, and some Python.
-
-This Github account holds my hobby projects, algorithms, and scratch code. 
-
-I'm currently enjoying competitive programming in my spare time, and participating in contests where I am able.
+Currently involved in the competitive programming scene, and participating in contests where I am able.
 
 - 🔭 I’m currently working on ...
   
@@ -12,7 +8,7 @@ I'm currently enjoying competitive programming in my spare time, and participati
 
 - 🌱 I’m currently learning ...
   
-  How to apply advanced data structures such as Heavy-Light Decomposition.
+  Combinatorics.
 
 - 📫 How to reach me: ...
 
