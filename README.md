@@ -6,7 +6,7 @@ Currently involved in the competitive programming scene, and participating in co
   
   I love programming, I study algorithms every day, and I can talk your ear off about data structures.
   
-  As for other hobbies, I'm a lead singer in a metal band. I also write horror novels... okay, well, just one novel so far, but I'm proud of it! There are some [excerpts](https://github.com/IsaacBell/j-78) scattered [around](https://github.com/IsaacBell/crystal-dreams) on my Github profile.
+  As for other hobbies, I'm a lead singer in a metal band. I also (pseudonymously) write horror novels... okay, well, just one novel so far, but I'm proud of it! There are some [excerpts](https://github.com/IsaacBell/j-78) scattered [around](https://github.com/IsaacBell/crystal-dreams) on my Github profile.
 
 - 🔭 I’m currently working on ...
   
