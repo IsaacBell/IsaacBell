@@ -1,4 +1,6 @@
-I'm Isaac. I write code with Javascript, C++, Ruby, and sometimes Python.
+I'm Isaac. I write code with Javascript, C++, and Ruby. 
+
+Sometimes, if I'm feeling frisky, I'll play around with [C#](https://github.com/IsaacBell/Unity-Time-Reversal) or [Python](https://github.com/IsaacBell/Computer-Vision-Demo).
 
 Currently involved in the competitive programming scene, and participating in contests where I am able.
 
