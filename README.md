@@ -18,9 +18,9 @@ Currently involved in the competitive programming scene, and participating in co
 
 - 🌱 I’m currently learning ...
   
-  Combinatorics. A major weak area of mine.
-  
-  Next up is expected value and probability, which I believe is my weakest area in both math and CS contexts.
+  1. Combinatorics. A major weak area of mine.
+  2. Expected value and probability, which I believe is my weakest area in both math and CS contexts.
+  3. Chairman trees / Ji Driver Trees. It's hard to find info on these structures, though, outside of Chinese Olympiad papers.
 
 - 📫 How to reach me: ...
 
