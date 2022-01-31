@@ -2,9 +2,17 @@ I'm Isaac. I write code with Javascript, C++, Ruby, and sometimes Python.
 
 Currently involved in the competitive programming scene, and participating in contests where I am able.
 
+- 🧍 About me
+  
+  I love programming, I study algorithms every day, and I can talk your ear off about data structures.
+  
+  As for personal hobbies, I'm a lead singer in a metal band. I also write horror novels... okay, well, just one novel so far, but I'm proud of it! There are some [excerpts](https://github.com/IsaacBell/j-78) scattered [around](https://github.com/IsaacBell/crystal-dreams) on my Github profile.
+
 - 🔭 I’m currently working on ...
   
-  Completing the CSES algorithm problem set, and ranking up on the Codeforces platform.
+  1. Completing the CSES algorithm problem set
+  2. Ranking up on the Codeforces platform
+  3. Replacing coffee with tea as my drink of choice
 
 - 🌱 I’m currently learning ...
   
