@@ -20,7 +20,7 @@ Currently involved in the competitive programming scene, and participating in co
   
   1. Combinatorics. A major weak area of mine.
   2. Expected value and probability, which I believe is my weakest area in both math and CS contexts.
-  3. Chairman trees / Ji Driver Trees. It's hard to find info on these structures, though, outside of Chinese Olympiad papers, so it's going to require a Sunday deep dive at some point.
+  3. Chairman trees / Ji Driver Trees. It's hard to find info on these structures, though, so it's going to require a Sunday deep dive at some point.
 
 - 📫 How to reach me: ...
 
