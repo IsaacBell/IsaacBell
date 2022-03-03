@@ -8,19 +8,17 @@ Currently involved in the competitive programming scene, and participating in co
   
   I love programming, I study algorithms every day, and I can talk your ear off about data structures.
   
-  As for other hobbies, I'm a lead singer in a metal band. I also (pseudonymously) write horror novels... okay, well, just one novel so far, but I'm proud of it! There are some [excerpts](https://github.com/IsaacBell/j-78) scattered [around](https://github.com/IsaacBell/crystal-dreams) on my Github profile.
+  I'm also a musician. I also (pseudonymously) write horror novels... okay, well, just one novel so far, but I'm proud of it! There are some [excerpts](https://github.com/IsaacBell/j-78) scattered [around](https://github.com/IsaacBell/crystal-dreams) on my Github profile.
 
 - 🔭 I’m currently working on ...
   
-  1. Completing the CSES algorithm problem set
-  2. Ranking up on the Codeforces platform
-  3. Replacing coffee with tea as my drink of choice
+  Completing the CSES problem set
 
 - 🌱 I’m currently learning ...
   
-  1. Combinatorics. A major weak area of mine.
-  2. Expected value and probability, which I believe is my weakest area in both math and CS contexts.
-  3. Chairman trees / Ji Driver Trees. It's hard to find info on these structures, though, so it's going to require a Sunday deep dive at some point.
+  1. Combinatorics ✅
+  2. Expected value and probability
+  3. Chairman trees
 
 - 📫 How to reach me: ...
 
