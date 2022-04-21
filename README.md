@@ -12,7 +12,11 @@ Currently involved in the competitive programming scene, and participating in co
 
 - 🔭 I’m currently working on ...
   
-  Completing the CSES problem set
+  Taking a break from programming contests so I can hone my math fundamentals.
+  
+  Currently reading two books. One is "Discrete Mathematics and its Applications", which is a great refresher on fundamental concepts.
+  
+  Currently reading *The Art of Computer Programming* by Donald Knuth. It's a beast of a book series, and I'm loving every page.
 
 - 🌱 I’m currently learning ...
   
