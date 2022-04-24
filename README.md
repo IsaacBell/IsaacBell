@@ -20,7 +20,7 @@ Currently involved in the competitive programming scene, and participating in co
 
 - 🌱 I’m currently learning ...
   
-  1. Combinatorics ✅
+  1. Refreshing on Discrete Mathematics 
   2. Expected value and probability
   3. Chairman trees
 
