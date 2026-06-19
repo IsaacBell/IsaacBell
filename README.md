@@ -7,8 +7,7 @@
 
 ---
 
-Building at the intersection of AI, infrastructure, and national security.
+I create novel solutions to unsolved problems. Sometimes I start businesses based on them.
 
 - **Currently:** [grid\[lab\]](https://github.com/ikebell) — Founder
-- **Previously:** US Department of Defense
 - **Contact:** [contact@isaacbell.io](mailto:contact@isaacbell.io)
