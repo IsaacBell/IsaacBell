@@ -7,7 +7,7 @@
 
 ---
 
-I create novel solutions to unsolved problems. Sometimes I start businesses based on them.
+Startup veteran, tech inventor. I create novel solutions to unsolved problems. Sometimes I start businesses based on them.
 
 - **Currently:** [grid\[lab\]](https://github.com/ikebell) — Founder
 - **Contact:** [contact@isaacbell.io](mailto:contact@isaacbell.io)
