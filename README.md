@@ -1,8 +1,8 @@
 ### Hi, I'm Isaac Bell 👋
 
-Software engineer, 15 years in. I build backend systems, API integrations, and automation tooling — currently running [grid[lab]](https://gridlab.works/) end-to-end (storefront, inventory, content, and ops automation) solo.
+Software engineer, 15 years in. I build backend systems, API integrations, and automation tooling — currently running [an outlet](https://gridlab.works/) end-to-end (storefront, office, inventory, content, and ops automation).
 
-**Currently:** Founder @ [grid[lab]](https://gridlab.works/)
+**Currently:** Founder @ [GridLab Electronics](https://gridlab.works/)
 
 **Open to:** freelance / fractional backend + automation work
 
