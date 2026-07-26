@@ -6,6 +6,20 @@ Software engineer, 15 years in. I build backend systems, API integrations, and a
 
 **Open to:** freelance / fractional backend + automation work
 
+### What I do
+
+- **App rescue (React, Next.js)**
+- **WooCommerce & storefront rescue** 
+- **Custom website builds from scratch (starting at $270)**
+- **Backend systems & API integrations** — wiring platforms together, 15yr production experience
+- **Automation & tooling** — replacing manual ops with tools that run themselves
+
+### Mini-Case Study
+
+Took a v0-generated founder platform to production in one week.
+[Public code contributions](https://github.com/gabbisoong/v0-vamo-tracker/pull/1/files) 
+[Project](https://www.vamofellowship.com)
+
 ### Vibe code rescue
 
 Built something promising in Lovable, Bolt, v0, Replit, Cursor, or with an AI coding agent — but hit the wall between demo and production?
