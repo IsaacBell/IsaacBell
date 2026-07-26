@@ -2,7 +2,7 @@
 
 Software engineer, 15 years in. I build backend systems, API integrations, and automation tooling — currently running [grid[lab]](https://gridlab.works/) end-to-end (storefront, inventory, content, and ops automation) solo.
 
-**Currently:** [grid[lab]](https://gridlab.works/) — Founder
+**Currently:** Founder @ [grid[lab]](https://gridlab.works/)
 
 **Open to:** freelance / fractional backend + automation work
 
@@ -17,8 +17,9 @@ Software engineer, 15 years in. I build backend systems, API integrations, and a
 ### Mini-Case Study
 
 Took a v0-generated founder platform to production in one week.
-[Public code contributions](https://github.com/gabbisoong/v0-vamo-tracker/pull/1/files) 
-[Project](https://www.vamofellowship.com)
+
+* [Public code contributions](https://github.com/gabbisoong/v0-vamo-tracker/pull/1/files) 
+* [Project](https://www.vamofellowship.com)
 
 ### Vibe code rescue
 
