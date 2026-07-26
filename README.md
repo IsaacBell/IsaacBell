@@ -4,7 +4,7 @@ Software engineer, 15 years in. I build backend systems, API integrations, and a
 
 **Currently:** Founder @ [GridLab Electronics](https://gridlab.works/)
 
-**Open to:** freelance / fractional backend + automation work
+**Open to:** freelance / fractional work
 
 ### What I do
 
