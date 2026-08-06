@@ -8,8 +8,8 @@ Software engineer, 15 years in. I build backend systems, API integrations, and a
 
 ### What I do
 
-- **App rescue (React, Next.js)**
-- **WooCommerce & storefront rescue** 
+- **App rescue (Wordpress, React, Next.js)**
+- **E-Commerce - WooCommerce, Shopify** 
 - **Custom website builds from scratch (starting at $270)**
 - **Backend systems & API integrations** — wiring platforms together, 15yr production experience
 - **Automation & tooling** — replacing manual ops with tools that run themselves
@@ -27,9 +27,9 @@ Built something promising in Lovable, Bolt, v0, Replit, Cursor, or with an AI co
 
 I take over existing projects to:
 
-- stabilize generated React, Next.js, TypeScript, and Python code
-- fix auth, database, API, integration, and deployment problems
-- improve mobile UX, performance, security, and reliability
+- stabilize code
+- fix bugs and deployment problems
+- improve design, performance, security, and reliability
 - launch the project and leave behind a maintainable codebase and walkthrough
 
 **Rescues start at $650.** Send me the repository and a short description of what's broken; I'll reply with a fixed-scope plan.
