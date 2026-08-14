@@ -1,42 +1,57 @@
-# Hi, I'm Isaac Bell 👋
+<div align="center">
+  <h1>Hi, I'm Isaac Bell 👋</h1>
+  <p><b>I turn ideas and unfinished code into pixel-perfect, market-ready applications.</b></p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+    <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+    <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=WooCommerce&logoColor=white" alt="WooCommerce" />
+    <img src="https://img.shields.io/badge/shopify-%237AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
+    <img src="https://img.shields.io/badge/Automation-FF6D00?style=for-the-badge&logo=n8n&logoColor=white" alt="Automation" />
+  </p>
+</div>
 
-**I turn ideas and unfinished code into pixel-perfect, market-ready applications.**
+<br />
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=WooCommerce&logoColor=white)
-![Shopify](https://img.shields.io/badge/shopify-%237AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-FF6D00?style=for-the-badge&logo=n8n&logoColor=white)
+<table width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>👨‍💻 About Me</h3>
+      <p>I am a software engineer with <b>15 years of experience</b> bridging enterprise and startup environments. I have helped hundreds of startups and founders bring their ideas to life and successfully launch market-ready products.</p>
+      <p>⚡ <b>My Superpower: Frontend Mastery.</b><br />
+      <i>I know the HTML/MDN specs inside out. I don't just build apps that technically work; I build premium, accessible, and highly responsive interfaces that users want to engage with. I back that up with a decade-plus of wiring together high-performance backend systems, APIs, and automations.</i></p>
+    </td>
+    <td width="45%" valign="top" align="center">
+      <a href="https://www.ikewebstudio.com/" target="_blank">
+        <img src="./card.svg" alt="Isaac Bell Business Card" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-#### 👨‍💻 About Me
+<br />
 
-I am a software engineer with 15 years of experience bridging enterprise and startup environments. I have helped hundreds of startups and founders bring their ideas to life and successfully launch market-ready products.
+<h3>🚀 What I'm Building Right Now</h3>
 
-#### ⚡ My Superpower: Frontend Mastery. 
+<details>
+  <summary>📦 <b>GridLab Electronics</b> <i>(Founder)</i></summary>
+  <p>Running a tech outlet end-to-end, including the storefront, inventory, content, and ops automation.</p>
+</details>
 
-I know the HTML/MDN specs inside out. I don't just build apps that technically work; I build premium, accessible, and highly responsive interfaces that users want to engage with. I back that up with a decade-plus of wiring together high-performance backend systems, APIs, and automations.
+<details>
+  <summary>🧠 <b>The Neuro-Friendly Office</b></summary>
+  <p>Inching closer to V1 of a comprehensive business system designed specifically for creatives and solopreneurs.</p>
+</details>
 
-#### 🚀 What I'm Building Right Now
+<details>
+  <summary>📘 <b>Tech Guides</b></summary>
+  <p>Writing a series of no-nonsense ebooks breaking down IT, tech, and privacy fundamentals.</p>
+</details>
 
-GridLab Electronics: Founder. Running a tech outlet end-to-end (storefront, inventory, content, and ops automation).
-
-The Neuro-Friendly Office: Inching closer to V1 of a comprehensive business system designed specifically for creatives and solopreneurs.
-
-Tech Guides: Writing a series of no-nonsense ebooks breaking down IT, tech, and privacy fundamentals.
-
-#### 📫 Let's Connect
-
-If you need help with a project or want to bring a new idea to life, I'd love to chat.
-
-📧 Email Me: [contact@isaacbell.io](mailto:contact@isaacbell.io)
-
-🗓️ Book A Session: [My Calendar](https://zcal.co/ibell)
-
-
-☕ _Want to support the indie builds? Keep the lights on via [ko-fi.com/ibell](https://ko-fi.com/ibell)._
+<br />
 
 ---
 
@@ -81,11 +96,25 @@ Took the concept, stabilized the frontend, wired the backend, and pushed it to a
 
 If you have a project that needs a senior engineer's eyes, let's talk. 
 
-*   **Book time instantly:** [ko-fi.com/ibell](https://ko-fi.com/ibell)
-*   **Schedule a consultation:** [zcal.co/ibell](YOUR_ZCAL_LINK_HERE) 
-*   **Portfolio:** [IkeWebStudio.com](https://www.ikewebstudio.com/)
-*   **Email:** [contact@isaacbell.io](mailto:contact@isaacbell.io) 
+<div align="center">
+  <a href="mailto:contact@isaacbell.io">
+    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+  </a>
+  &nbsp;
+  <a href="https://zcal.co/ibell" target="_blank">
+    <img src="https://img.shields.io/badge/Book_Time-2563EB?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book Time" />
+  </a>
+  &nbsp;
+  <a href="https://www.ikewebstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 
-<br>
+<br />
 
-
+<div align="center">
+  <a href="https://ko-fi.com/ibell" target="_blank">
+    <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" alt="Buy Me a Coffee at ko-fi.com" height="36" />
+  </a>
+  <p><i>☕ Want to support the indie builds? Keep the lights on!</i></p>
+</div>
