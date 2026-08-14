@@ -11,26 +11,32 @@
 ![Shopify](https://img.shields.io/badge/shopify-%237AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-FF6D00?style=for-the-badge&logo=n8n&logoColor=white)
 
-👨‍💻 About Me
+#### 👨‍💻 About Me
+
 I am a software engineer with 15 years of experience bridging enterprise and startup environments. I have helped hundreds of startups and founders bring their ideas to life and successfully launch market-ready products.
 
-⚡ My Superpower: Frontend Mastery. I know the HTML/MDN specs inside out. I don't just build apps that technically work; I build premium, accessible, and highly responsive interfaces that users want to engage with. I back that up with a decade-plus of wiring together high-performance backend systems, APIs, and automations.
+#### ⚡ My Superpower: Frontend Mastery. 
 
-🚀 What I'm Building Right Now
+I know the HTML/MDN specs inside out. I don't just build apps that technically work; I build premium, accessible, and highly responsive interfaces that users want to engage with. I back that up with a decade-plus of wiring together high-performance backend systems, APIs, and automations.
+
+#### 🚀 What I'm Building Right Now
+
 GridLab Electronics: Founder. Running a tech outlet end-to-end (storefront, inventory, content, and ops automation).
 
 The Neuro-Friendly Office: Inching closer to V1 of a comprehensive business system designed specifically for creatives and solopreneurs.
 
 Tech Guides: Writing a series of no-nonsense ebooks breaking down IT, tech, and privacy fundamentals.
 
-📫 Let's Connect
+#### 📫 Let's Connect
+
 If you need help with a project or want to bring a new idea to life, I'd love to chat.
 
 📧 Email Me: [contact@isaacbell.io](mailto:contact@isaacbell.io)
 
 🗓️ Book A Session: [My Calendar](https://zcal.co/ibell)
 
-☕ Want to support the indie builds? Keep the lights on via Ko-fi.
+
+☕ _Want to support the indie builds? Keep the lights on via [ko-fi.com/ibell](https://ko-fi.com/ibell)._
 
 ---
 
@@ -75,7 +81,7 @@ Took the concept, stabilized the frontend, wired the backend, and pushed it to a
 
 If you have a project that needs a senior engineer's eyes, let's talk. 
 
-*   **Book my time instantly:** [ko-fi.com/ibell](https://ko-fi.com/ibell)
+*   **Book time instantly:** [ko-fi.com/ibell](https://ko-fi.com/ibell)
 *   **Schedule a consultation:** [zcal.co/ibell](YOUR_ZCAL_LINK_HERE) 
 *   **Portfolio:** [IkeWebStudio.com](https://www.ikewebstudio.com/)
 *   **Email:** [contact@isaacbell.io](mailto:contact@isaacbell.io) 
