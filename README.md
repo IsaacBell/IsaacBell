@@ -12,9 +12,9 @@
 ![Automation](https://img.shields.io/badge/Automation-FF6D00?style=for-the-badge&logo=n8n&logoColor=white)
 
 
-I am a software engineer with 15 years in the trenches. I have helped hundreds of startups and founders bring their ideas to life and push them across the finish line. 
+I am a software engineer with 15 years in the trenches. I have helped hundreds of startups and founders bring their ideas to life and push them across the finish line. If you need help with a project, you can email me or book time directly through Ko-Fi.
 
-My superpower is **frontend mastery**—I know the HTML/MDN specs inside out. I don't just build apps that technically work; I build premium, accessible, and highly responsive interfaces that users actually trust. I back that up with a decade-plus of wiring together high-performance backend systems, APIs, and automations.
+My superpower is **frontend mastery**—I know the HTML/MDN specs inside out. I don't just build apps that technically work; I build premium, accessible, and highly responsive interfaces that users want to engage with. I back that up with a decade-plus of wiring together high-performance backend systems, APIs, and automations.
 
 **What I'm building right now:**
 *   **GridLab Electronics:** Founder, running a tech outlet end-to-end (storefront, inventory, content, and ops automation).
@@ -31,13 +31,14 @@ Did you build a promising MVP in **Cursor, v0, Bolt, Lovable, or Replit**—but 
 
 AI coding agents are incredible at scaffolding, but they are notoriously terrible at the "last mile." They generate unmaintainable `<div>` soup, break on mobile viewports, and leave glaring security holes in your database architecture.
 
-**Stop letting your MVP rot on localhost. I step in to:**
-- **Untangle the Mess:** Turn AI-generated spaghetti code into clean, scalable architecture.
-- **Provide Premium UI/UX Polish:** Apply deep frontend expertise to make your app look and feel like an enterprise product.
+**Your MVP doesn't have to sit on your laptop. I step in to:**
+- **Untangle Any Mess:** Turn AI-generated spaghetti code into clean, scalable architecture.
+- **Provide Premium UI Polish:** Apply deep frontend expertise to make your app look and feel like an enterprise product.
 - **Ship It:** Fix the deployment bottlenecks, launch the project, and hand over a maintainable codebase.
 
-⚡ **Rescues start at $650.** Send me the repo and what's broken. I'll reply with a fixed-scope plan.
-👉 **[Book a Rescue or Unblock Session](https://ko-fi.com/ibell) | [Schedule a Call on zcal](YOUR_ZCAL_LINK_HERE)**
+⚡ **Rescues start at $650.** Send me what's broken. I'll investigate and come back to you with a fixed-scope plan.
+
+👉 **[Book a Rescue or Unblock Session](https://ko-fi.com/ibell) | [Schedule a Call on zcal](https://zcal.co/ibell)**
 
 ---
 
