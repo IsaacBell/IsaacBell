@@ -11,17 +11,26 @@
 ![Shopify](https://img.shields.io/badge/shopify-%237AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-FF6D00?style=for-the-badge&logo=n8n&logoColor=white)
 
+👨‍💻 About Me
+I am a software engineer with 15 years of experience bridging enterprise and startup environments. I have helped hundreds of startups and founders bring their ideas to life and successfully launch market-ready products.
 
-I am a software engineer with 15 years in the trenches. I have helped hundreds of startups and founders bring their ideas to life and push them across the finish line. If you need help with a project, you can email me or book time directly through Ko-Fi.
+⚡ My Superpower: Frontend Mastery. I know the HTML/MDN specs inside out. I don't just build apps that technically work; I build premium, accessible, and highly responsive interfaces that users want to engage with. I back that up with a decade-plus of wiring together high-performance backend systems, APIs, and automations.
 
-My superpower is **frontend mastery**—I know the HTML/MDN specs inside out. I don't just build apps that technically work; I build premium, accessible, and highly responsive interfaces that users want to engage with. I back that up with a decade-plus of wiring together high-performance backend systems, APIs, and automations.
+🚀 What I'm Building Right Now
+GridLab Electronics: Founder. Running a tech outlet end-to-end (storefront, inventory, content, and ops automation).
 
-**What I'm building right now:**
-*   **GridLab Electronics:** Founder, running a tech outlet end-to-end (storefront, inventory, content, and ops automation).
-*   **The Neuro-Friendly Office:** Inching closer to V1 of a business system designed specifically for creatives and solopreneurs.
-*   **Tech Guides:** Writing a series of no-nonsense ebooks breaking down IT, tech, and privacy fundamentals. 
+The Neuro-Friendly Office: Inching closer to V1 of a comprehensive business system designed specifically for creatives and solopreneurs.
 
-*Want to support the indie builds? [Keep the lights on via Ko-fi](https://ko-fi.com/ibell).*
+Tech Guides: Writing a series of no-nonsense ebooks breaking down IT, tech, and privacy fundamentals.
+
+📫 Let's Connect
+If you need help with a project or want to bring a new idea to life, I'd love to chat.
+
+📧 Email Me: [contact@isaacbell.io](mailto:contact@isaacbell.io)
+
+🗓️ Book A Session: [My Calendar](https://zcal.co/ibell)
+
+☕ Want to support the indie builds? Keep the lights on via Ko-fi.
 
 ---
 
