@@ -21,8 +21,8 @@
     <td width="55%" valign="top">
       <h3>👨‍💻 About Me</h3>
       <p>I am a software engineer with <b>15 years of experience</b> bridging enterprise and startup environments. I have helped hundreds of startups and founders bring their ideas to life and successfully launch market-ready products.</p>
-      <p>⚡ <b>My Superpower: Frontend Mastery.</b><br />
-      <i>I know the HTML/MDN specs inside out. I don't just build apps that technically work; I build premium, accessible, and highly responsive interfaces that users want to engage with. I back that up with a decade-plus of wiring together high-performance backend systems, APIs, and automations.</i></p>
+      <p>⚡ <b>My Superpower: Product Launch Specialist</b><br />
+      <i>I don't just build apps that technically work; I build premium, accessible, and highly responsive interfaces that users want to engage with, and advise on growth strategies so you can focus on the decisions that matter most.  </i></p>
     </td>
     <td width="45%" valign="top" align="center">
       <a href="https://www.ikewebstudio.com/" target="_blank">
