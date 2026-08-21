@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Isaac Bell 👋</h1>
-  <p><b>Fractional CTO for healthcare AI · Founder, GridLab Electronics · Active open source contributor</b></p>
+  <p><b>Fractional CTO for healthcare AI · Founder, GridLab Electronics · IkeWebStudio</b></p>
 
   <p>
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
@@ -20,7 +20,7 @@
       <h3>👨‍💻 About Me</h3>
       <p>I'm a software engineer with <b>15 years of experience</b> bridging enterprise, hardware, and regulated startup environments. I focus on the un-sexy (and scaling) spaces where software and hardware are high-risk and hard to produce — building compliant AI architectures for healthcare teams, and shipping the engineering work behind GridLab Electronics.</p>
       <p>⚡ <b>What I do</b><br />
-      <i>I run three lanes in parallel: a healthcare fractional CTO practice at <a href="https://isaacbell.io">isaacbell.io</a>, hands-on hardware retail at GridLab Electronics, and active open source work (member of <b>[insert your org names]</b>). When founders hit a wall — especially after a vibe-coded MVP — I'm the senior set of eyes that gets it across the line.</i></p>
+      <i>I run three lanes in parallel: a healthcare fractional CTO practice at <a href="https://isaacbell.io">isaacbell.io</a>, a hands-on hardware outlet at <b>GridLab Electronics</b>, and <a href="https://www.ikewebstudio.com/">IkeWebStudio</a> — our execution wing for design, dev, and SEO. When founders hit a wall — especially after a vibe-coded MVP — I'm the senior set of eyes that gets it across the line.</i></p>
     </td>
     <td width="45%" valign="top" align="center">
       <a href="https://isaacbell.io/about/" target="_blank">
@@ -45,8 +45,8 @@
 </details>
 
 <details>
-  <summary>🐙 <b>Open Source Contributions</b> <i>([insert your org names])</i></summary>
-  <p>Active contributor to projects in dev tooling, automation, and SEO. Member of <b>[insert your org names]</b>. Open to collaboration on regulated-AI tooling.</p>
+  <summary>🎨 <b>IkeWebStudio</b> <i>(Execution Wing)</i></summary>
+  <p>Our design, development, and SEO shop — the execution engine behind premium web builds and landing pages.</p>
 </details>
 
 <br />
@@ -74,6 +74,7 @@ AI coding agents are incredible at scaffolding, but notoriously terrible at the 
 
 When I'm not on fractional CTO retainer, I take focused, fixed-scope engagements:
 
+*   **Custom Premium Web Builds** — Responsive, from-scratch applications and landing pages built to enterprise polish — **$1,250**.
 *   **Live Technical Troubleshooting** — Live pair debugging and architectural walkthroughs — **$150**.
 *   **Code Review (General Quality)** — PR-level review of readability, structure, and senior best practices — **$250**.
 *   **Compliance Code Review** — Targeted audit against HIPAA, PCI, and ISO 27001 control families — **$750**.
