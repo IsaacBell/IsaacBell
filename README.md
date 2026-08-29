@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Isaac Bell 👋</h1>
-  <p><b>Fractional CTO for healthcare AI · Founder, GridLab Electronics · IkeWebStudio</b></p>
+  <p><b>Fractional CTO for AI & 0->1 · Founder @ GridLab Electronics · Founder @ IkeWebStudio</b></p>
 
   <p>
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
@@ -18,9 +18,9 @@
   <tr>
     <td width="55%" valign="top">
       <h3>👨‍💻 About Me</h3>
-      <p>I'm a software engineer with <b>15 years of experience</b> bridging enterprise, hardware, and regulated startup environments. I focus on the un-sexy (and scaling) spaces where software and hardware are high-risk and hard to produce — building compliant AI architectures for healthcare teams, and shipping the engineering work behind GridLab Electronics.</p>
+      <p>I'm a software expert with <b>15 years of experience</b> startup world.</p>
       <p>⚡ <b>What I do</b><br />
-      <i>I run three lanes in parallel: a healthcare fractional CTO practice at <a href="https://isaacbell.io">isaacbell.io</a>, a hands-on hardware outlet at <b>GridLab Electronics</b>, and <a href="https://www.ikewebstudio.com/">IkeWebStudio</a> — our execution wing for design, dev, and SEO. When founders hit a wall — especially after a vibe-coded MVP — I'm the senior set of eyes that gets it across the line.</i></p>
+      <i>I do strategic technical work at <a href="https://isaacbell.io">isaacbell.io</a>, and I craft boutique digital experiences at <a href="https://www.ikewebstudio.com/">@IkeWebStudio</a> — design, dev, and SEO. When founders hit a wall — especially after a vibe-coded MVP — I'm the senior set of eyes that gets it across the line.</i></p>
     </td>
     <td width="45%" valign="top" align="center">
       <a href="https://isaacbell.io/about/" target="_blank">
@@ -35,13 +35,13 @@
 <h3>🚀 What I'm Building Right Now</h3>
 
 <details>
-  <summary>🩺 <b>Healthcare Fractional CTO Practice</b> <i>(isaacbell.io)</i></summary>
-  <p>Compliance-first AI architecture for regulated clinical environments — fractional CTO engagements, scoping sprints, and go/no-go feasibility reviews for founders and hospital leaders.</p>
+  <summary>🩺 <b>Fractional CTO Practice</b> <i>(isaacbell.io)</i></summary>
+  <p>I guide non-technical founders from idea to execution.</p>
 </details>
 
 <details>
   <summary>📦 <b>GridLab Electronics</b> <i>(Founder)</i></summary>
-  <p>Running a hands-on hardware outlet end-to-end — storefront, inventory, content, and ops automation.</p>
+  <p>My computer lab, where I sell restored hardware — storefront, inventory, content, and ops automation.</p>
 </details>
 
 <details>
