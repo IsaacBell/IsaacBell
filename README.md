@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Isaac Bell 👋</h1>
-  <p><b>Fractional CTO for AI & 0->1 · Founder @ GridLab Electronics · Founder @ IkeWebStudio</b></p>
+  <p><b>Fractional CTO · 0->1 & GTM</b></p>
 
   <p>
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
@@ -18,13 +18,14 @@
   <tr>
     <td width="55%" valign="top">
       <h3>👨‍💻 About Me</h3>
-      <p>I'm a software expert with <b>15 years of experience</b> startup world.</p>
+      <p>I'm a software and AI expert with <b>15 years taking products to market</b>.</p>
       <p>⚡ <b>What I do</b><br />
-      <i>I do strategic technical work at <a href="https://isaacbell.io">isaacbell.io</a>, and I craft boutique digital experiences at <a href="https://www.ikewebstudio.com/">@IkeWebStudio</a> — design, dev, and SEO. When founders hit a wall — especially after a vibe-coded MVP — I'm the senior set of eyes that gets it across the line.</i></p>
+      <i>I am a technical strategist (<a href="https://isaacbell.io">isaacbell.io</a>) with a product background. A veteran of the startup world, I am also a serial founder and community builder. When founders hit a wall — especially after a vibe-coded MVP — I'm the senior set of eyes that gets it across the line.</i></p>
     </td>
     <td width="45%" valign="top" align="center">
-      <a href="https://isaacbell.io/about/" target="_blank">
-        <img src="./card.svg" alt="Isaac Bell Business Card" width="100%" />
+      <a href="https://isaacbell.io/" target="_blank">
+        <!-- <img src="./card.svg" alt="Isaac Bell Business Card" width="100%" /> -->
+        New business card coming soon as of 9/14/26!
       </a>
     </td>
   </tr>
@@ -35,25 +36,28 @@
 <h3>🚀 What I'm Building Right Now</h3>
 
 <details>
-  <summary>🩺 <b>Fractional CTO Practice</b> <i>(isaacbell.io)</i></summary>
-  <p>I guide non-technical founders from idea to execution.</p>
+  <summary>🩺 <b>My CTO Practice</b> <i>(isaacbell.io)</i></summary>
+  <p>Guiding non-technical founders from idea to execution.</p>
 </details>
 
 <details>
-  <summary>📦 <b>GridLab Electronics</b> <i>(Founder)</i></summary>
-  <p>My computer lab, where I sell restored hardware — storefront, inventory, content, and ops automation.</p>
-</details>
-
-<details>
-  <summary>🎨 <b>IkeWebStudio</b> <i>(Execution Wing)</i></summary>
-  <p>Our design, development, and SEO shop — the execution engine behind premium web builds and landing pages.</p>
+  <summary>📦 <b>GridLab</b> <i>(Founder)</i></summary>
+  <p>Selling restored hardware and original software — storefront, inventory, content, and ops automation.</p>
 </details>
 
 <br />
+---
+
+## 📈 Coding Case Study: From v0 to Production in 7 Days
+
+Took the concept, designed and created a new UI, wired in the backend, and deployed to a live production environment in exactly one week.
+
+*   **The Code:** [View the PR & Code Rescue](https://github.com/gabbisoong/v0-vamo-tracker/pull/1/files)
+*   **The Live Result:** [Vamo Fellowship](https://www.vamofellowship.com)
 
 ---
 
-## 🚨 The "Vibe Code" Rescue — $650
+## 🚨 The "Vibe Code" Rescue
 
 Did you build a promising MVP in **Cursor, v0, Bolt, Lovable, or Replit** — but hit a brick wall trying to deploy it?
 
@@ -64,29 +68,9 @@ AI coding agents are incredible at scaffolding, but notoriously terrible at the 
 - **Provide premium UI polish:** Apply deep frontend expertise to make your app look and feel like an enterprise product.
 - **Ship it:** Fix deployment bottlenecks, launch the project, and hand over a maintainable codebase.
 
-⚡ **Rescues start at $650.** Send me what's broken — I'll investigate and come back with a fixed-scope plan.
+⚡ **Send me what's broken — I'll investigate and come back with a fixed-scope plan.**
 
-👉 **[Book a Rescue or Unblock Session](https://ko-fi.com/ibell) | [Schedule a Call on zcal](https://zcal.co/ibell)**
-
----
-
-## 🛠️ À la Carte Engagements
-
-When I'm not on fractional CTO retainer, I take focused, fixed-scope engagements:
-
-*   **Custom Premium Web Builds** — Responsive, from-scratch applications and landing pages built to enterprise polish — **$1,250**.
-*   **Live Technical Troubleshooting** — Live pair debugging and architectural walkthroughs — **$150**.
-*   **Code Review (General Quality)** — PR-level review of readability, structure, and senior best practices — **$250**.
-*   **Compliance Code Review** — Targeted audit against HIPAA, PCI, and ISO 27001 control families — **$750**.
-
----
-
-## 📈 Case Study: From v0 to Production in 7 Days
-
-Took the concept, stabilized the frontend, wired the backend, and pushed it to a live production environment in exactly one week.
-
-*   **The Code:** [View the PR & Code Rescue](https://github.com/gabbisoong/v0-vamo-tracker/pull/1/files)
-*   **The Live Result:** [Vamo Fellowship](https://www.vamofellowship.com)
+👉 **[Book a Rescue or Unblock Session](https://ko-fi.com/ibell) | [Schedule a Call](https://zcal.co/ibell/chat)**
 
 ---
 
@@ -99,11 +83,11 @@ If you have a project that needs a senior engineer's eyes, let's talk.
     <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
   </a>
   &nbsp;
-  <a href="https://zcal.co/ibell" target="_blank">
+  <a href="https://zcal.co/ibell/chat" target="_blank">
     <img src="https://img.shields.io/badge/Book_Time-2563EB?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book Time" />
   </a>
   &nbsp;
-  <a href="https://isaacbell.io/about/" target="_blank">
+  <a href="https://isaacbell.io/" target="_blank">
     <img src="https://img.shields.io/badge/About-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="About" />
   </a>
 </div>
