@@ -32,6 +32,6 @@ Most client work is under NDA, so clients stay unnamed.
 
 ### Find me
 
-[isaacbell.io](https://isaacbell.io) · [IkeWebStudio](https://www.ikewebstudio.com) · [contact@isaacbell.io](mailto:contact@isaacbell.io)
+[isaacbell.io](https://isaacbell.io) · [IkeWebStudio](https://www.ikewebstudio.com) · [LinkedIn](https://www.linkedin.com/in/bellisaac) · [contact@isaacbell.io](mailto:contact@isaacbell.io)
 
 <sub>CodePath algorithm instructor (volunteer) · GitHub Arctic Vault contributor · Last updated September 2026</sub>
