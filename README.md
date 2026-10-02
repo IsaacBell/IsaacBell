@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Isaac Bell</h1>
   <p><b>Software engineer.</b> 15 years shipping production software, including apps with millions of users and a US DoD engagement.</p>
-  <p>Looking for full-time roles or contracts. Remote preferred, travel OK.</p>
+  <p>I do full-time roles, contracts, and strategic engagements. Remote preferred, travel OK.</p>
 </div>
 
 ### Selected work
