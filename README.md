@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Isaac Bell</h1>
-  <p><b>Software engineer · Product Thinker · Growth Hacker</b></p>
+  <p><b>Tech Lead | Full-Stack &amp; AI Engineering</b></p>
 </div>
 
 ### Selected work
@@ -16,10 +16,9 @@ Most client work is confidential.
 
 ### Open source
 
-- **[secure-devtools](https://github.com/IsaacBell/secure-devtools)**: security tools.
-  - **am-i-hacked** scans for malware and viruses. 
+- **[secure-devtools](https://github.com/IsaacBell/secure-devtools)**: tools for inspecting repositories and development environments.
+  - **am-i-hacked** checks repositories and development environments for suspicious indicators. It is not antivirus.
   - **am-i-being-recorded** reports on screen capture devices and what apps can access them.
-- **[leads-db](https://github.com/IsaacBell/leads-db)**: AI-powered B2B lead generation.
 - Curated lists on AI and agentic development, accessibility, privacy and more: [all lists](https://github.com/IsaacBell?tab=repositories&q=awesome).
 
 ### Find me
