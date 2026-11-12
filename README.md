@@ -1,6 +1,8 @@
 <div align="center">
   <h1>Isaac Bell</h1>
-  <p><b>Staff / Lead Software Engineer · TypeScript, React &amp; Rails</b></p>
+  <p><b>Staff Software Engineer | Full Stack</b></p>
+  <p>TypeScript · React · Next.js · Node.js · Ruby on Rails</p>
+  <p>Healthcare and B2B platforms</p>
 </div>
 
 ### Selected work
@@ -19,7 +21,6 @@ Most client work is confidential.
 - **[secure-devtools](https://github.com/IsaacBell/secure-devtools)**: tools for inspecting repositories and development environments.
   - **am-i-hacked** checks repositories and development environments for suspicious indicators. It is not antivirus.
   - **am-i-being-recorded** reports on screen capture devices and what apps can access them.
-- **[leads-db](https://github.com/IsaacBell/leads-db)** (archived): a past B2B lead-generation project built with Next.js and Flask, with company-data enrichment and REST API access.
 - Curated lists on AI and agentic development, accessibility, privacy and more: [all lists](https://github.com/IsaacBell?tab=repositories&q=awesome).
 
 ### Find me
