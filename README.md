@@ -1,8 +1,6 @@
 <div align="center">
   <h1>Isaac Bell</h1>
-  <p><b>Staff Software Engineer | Full Stack</b></p>
-  <p>TypeScript · React · Next.js · Node.js · Ruby on Rails</p>
-  <p>Healthcare and B2B platforms</p>
+  <p><b>Tech Lead | Full-Stack &amp; AI Engineering</b></p>
 </div>
 
 ### Selected work
