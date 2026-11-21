@@ -19,10 +19,9 @@ Most client work is confidential.
 - **[secure-devtools](https://github.com/IsaacBell/secure-devtools)**: tools for inspecting repositories and development environments.
   - **am-i-hacked** checks repositories and development environments for suspicious indicators. It is not antivirus.
   - **am-i-being-recorded** reports on screen capture devices and what apps can access them.
-- Curated lists on AI and agentic development, accessibility, privacy and more: [all lists](https://github.com/IsaacBell?tab=repositories&q=awesome).
 
 ### Find me
 
-[isaacbell.io](https://isaacbell.io) · [IkeWebStudio](https://www.ikewebstudio.com) · [LinkedIn](https://www.linkedin.com/in/bellisaac) · [contact@isaacbell.io](mailto:contact@isaacbell.io)
+[isaacbell.io](https://isaacbell.io) · [LinkedIn](https://www.linkedin.com/in/bellisaac) · [contact@isaacbell.io](mailto:contact@isaacbell.io)
 
 <sub>CodePath algorithm instructor (volunteer) · Recognized open-source contributor (GitHub Arctic Code Vault)</sub>
